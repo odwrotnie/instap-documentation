@@ -1,5 +1,3 @@
-# test
-
 markdown-publishing-guide
 -------------------------
 

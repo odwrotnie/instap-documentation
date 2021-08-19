@@ -1,2 +1,2 @@
 # Roles
-Tutaj będą opisane role.
+Rola jest to zbiór uprawnień. 
