@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/instap-documentation/badge/?version=latest)](https://instap-documentation.readthedocs.io/en/latest/?badge=latest)
+
 # asdf Markdown Publishing Guide v1.0.1
 A guide to publishing Markdown documents on GitHub and ReadTheDocs
 
