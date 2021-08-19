@@ -3,3 +3,4 @@
 Documents
 --------
 * [Markdown Publishing Guide](markdown-publishing-guide.md)
+* [Roles](roles.md)
