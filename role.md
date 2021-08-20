@@ -3,3 +3,7 @@ Rolą nazywamy zbiór uprawnień. Może być ona przypisana do jednego lub wielu
 
 ![Miejsce przypisania roli](rola-w-user.png)
 Na powyższym obrazku zaznaczone jest miejsce w którym wybrać można rolę dla danego użytkownika. 
+![Uprawnienia w roli](upraw-w-rola.png)
+Na powyższym obrazku zaznaczone zostało miejsce wyboru i pojawiania się przypisanych uprawnień do roli.
+![Użytkownicy w roli](user-w-rola.png)
+Na powyższym obrazku zaznaczone zostało miejsce wyboru i pojawiania się przypisanych użytkowników do roli.
