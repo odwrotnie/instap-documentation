@@ -14,3 +14,5 @@ Uprawnienia pozwalają na nadanie wybranych praw danej roli dla dowolnej definic
 * **DELETE_ITEMS** - pozwala na usuwanie obiektu
 
 Aby utworzyć nowy obiekt trzeba posiadać uprawnienia na tworzenie obiektu jak i na edycję pól, ponieważ w innym wypadku będzie można tylko utworzyć pusty obiekt.
+![Przykładowa karta uprawnień](upraw.png)
+Na powyższym obrazku widać przykładową kartę uprawnień. Wybrano definicję *Buildings*, przypisano do roli *user* z prawami **LIST_ITEMS** i **LIST_DEFINITION**.
