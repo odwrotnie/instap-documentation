@@ -8,7 +8,7 @@ Po podaniu podstawowych danych trzeba kliknąć w wyżej zaznaczoną kartę.
 Tutaj można nadać hasło danemu użytkownikowi. 
 
 ## Przypisanie roli do użytkownika
-![Przypisanie roli][przypisanie-roli-user.png]
+![Przypisanie roli](przypisanie-roli-user.png)
 
 
 [Powrót do menu](README.md)
