@@ -18,8 +18,8 @@ Utworzyć nową rolę można poprzeć przycisk plusa znajdujący się w dwóch p
 2. Tutaj można utworzyć nowe uprawnienie
 
 ![Stworzenie uprawnienia w roli](nowe-uprawnienie-w-roli.png)
-Wybór jakiej definicji ma dotyczyć uprawnienie
-Prawa jakie dane uprawnienie będzie posiadać
+1. Wybór jakiej definicji ma dotyczyć uprawnienie
+2. Prawa jakie dane uprawnienie będzie posiadać
 
 ## Przypisanie użytkownika do roli
 ![Przypisanie użytkownika](przypisanie-usera-rola.png)
