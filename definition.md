@@ -25,7 +25,10 @@ Dodatkowo definicja może być hierarchiczna co oznacza, że do obiektu można s
 * (6.) Przycisk usuwający definicję
 * (7.) Miejsce wyboru dodatkowych pól definicji
 
-Pola podpięte do **PÓŁ WYRÓŻNIONYCH** będą widoczne w tabeli oraz na kartach obiektu. 
 
+## Pola
+![Pola](pola.png)
+
+Ekran pól dzieli się na cztery części. Na samej górze są **POLA WYRÓŻNIONE**. Pola będące w tym miejscu będą widoczne w tabeli oraz na kartach danego obiektu. Poniżej jest miejsce na pozostałe pola widoczne po wejściu w szczegóły obiektu. Kolejna część odpowiada za relacje. Definicja wybrana na tej karcie pojawi się przy tworzeniu/edycji obiektu jako pole. Na samym dole pokazane są relację powiązane, czyli takie gdzie dana definicja jest polem w innej definicji. 
 
 [Powrót do menu](README.md)

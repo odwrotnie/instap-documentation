@@ -26,5 +26,9 @@ Zmiana uprawnień dla konkretnej roli może być wykonana w następujący sposó
 3. Włączenie trybu edycji tabeli
 4. Zmiana zakresu uprawnień przy odpowiedniej definicji
 
+## Widoczność definicji w relacji
+Aby widzieć obiekty, które są w relacji do danej definicji, potrzebne jest uprawnienie *LIST_RELATED_ITEMS* w podpiętej definicji. Przykład:
+Do definicji A podpięta jest definicja B. Użytkownik wchodząc w obiekt z definicji A zobaczy obiekty z definicji B jeśli będzie miał uprawnienie *LIST_RELATED_ITEMS* do definicji B. 
+
 
 [Powrót do menu](README.md)
