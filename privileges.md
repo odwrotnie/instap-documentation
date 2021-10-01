@@ -10,7 +10,7 @@ Uprawnienia pozwalają na nadanie wybranych praw danej roli dla dowolnej definic
 * **LIST_RELATED_ITEMS** - pozwala na podgląd obiektów w relacji
 * **CREATE_RELATED_ITEMS** - pozwala na tworzenie obiektów w relacji
 * **VIEW_HIDDEN_FIELD** - pozwala na podgląd pól ukrytych
-* **EDIT_HIDDEN_FIELDS** - pozwala na edycję pół ukrytych
+* **EDIT_HIDDEN_FIELDS** - pozwala na edycję pól ukrytych
 * **EDIT_FIELDS** - pozwala na edycję pól
 * **DELETE_ITEMS** - pozwala na usuwanie obiektu
 
