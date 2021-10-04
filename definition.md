@@ -39,7 +39,12 @@ Pola wyświetlane są w kolejności od lewej do prawej, z góry do dołu. Kolej
 *Is hidden* - czy pole ma być ukrytę. Po wybraniu tej opcji zobaczyć je będzie mógł tylko użytkownik posiadający uprawnienie do podglądu ukrytych pól.  
 *Is name field* - czy pole ma być nazwą obiektu. Jeśli ta opcja zostanie wybrana dla tylko jednego pola to nie będzie ono widoczne w tabeli/na karcie, ponieważ pojawi się jako nazwa całego obiektu.  
 *Is read only* - czy pole ma być w trybie tylko do odczytu.   
-*Is required* - czy pole ma być obowiązkowe. Po wybraniu tej opcji nie będzie można zapisać obiektu bez uzupełnienia tego pola.  
+*Is required* - czy pole ma być obowiązkowe. Po wybraniu tej opcji nie będzie można zapisać obiektu bez uzupełnienia tego pola. 
+
+### Status obiektu
+![Status obiektu](pola-status.png)
+
+Obiekty mogą mieć różne statusy. Status DRAFT (1.) i INVALID (3.) są zawsze w trybie edycji. Tryb obiektu przy statusie SAVED (2.) zależy jest od przełącznika edycji (5.). Przy statusie CLOSED (4.) edycja jest wyłączona i dane można tylko odczytać.
 
 
 [Powrót do menu](README.md)
