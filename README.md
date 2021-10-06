@@ -5,3 +5,7 @@
 * [Uprawnienia](privileges.md)
 * [Role](role.md)
 * [Użytkownik](user.md)
+* [Wykresy](wykresy.md)
+* [Zgłoszenia](zgłoszenia.md)
+* [Rezerwacje](rezerwacje.md)
+* [Wnioski](wnioski.md)
