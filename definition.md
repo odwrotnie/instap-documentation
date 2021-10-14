@@ -16,7 +16,7 @@
 Dodatkowo definicja może być hierarchiczna co oznacza, że do obiektu można stworzyć jego "podobiekt".  
 
 ## Panel definicji
-![Panel definicji](panel-definicji.png)
+![Panel definicji](images/panel-definicji.png)
 
 * (1.) Miejsce wyboru ikony definicji
 * (2.) Miejsce wprowadzenia nazwy definicji
@@ -28,7 +28,7 @@ Dodatkowo definicja może być hierarchiczna co oznacza, że do obiektu można s
 
 
 ## Pola
-![Pola](pola.png)
+![Pola](images/pola.png)
 
 Ekran pól dzieli się na cztery części. Na samej górze są **POLA WYRÓŻNIONE**. Pola będące w tym miejscu będą widoczne w tabeli oraz na kartach danego obiektu. Poniżej jest miejsce na pozostałe pola widoczne po wejściu w szczegóły obiektu. Kolejna część odpowiada za relacje. Definicja wybrana na tej karcie pojawi się przy tworzeniu/edycji obiektu jako pole. Na samym dole pokazane są relację powiązane, czyli takie gdzie dana definicja jest polem w innej definicji. 
 
@@ -42,7 +42,7 @@ Pola wyświetlane są w kolejności od lewej do prawej, z góry do dołu. Kolej
 *Is required* - czy pole ma być obowiązkowe. Po wybraniu tej opcji nie będzie można zapisać obiektu bez uzupełnienia tego pola. 
 
 ### Status obiektu
-![Status obiektu](pola-status.png)
+![Status obiektu](images/pola-status.png)
 
 Obiekty mogą mieć różne statusy. Status DRAFT (1.) i INVALID (3.) są zawsze w trybie edycji. Tryb obiektu przy statusie SAVED (2.) zależy jest od przełącznika edycji (5.). Przy statusie CLOSED (4.) edycja jest wyłączona i dane można tylko odczytać.
 
