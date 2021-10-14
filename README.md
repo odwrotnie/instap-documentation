@@ -6,6 +6,6 @@
 * [Role](role.md)
 * [Użytkownik](user.md)
 * [Wykresy](wykresy.md)
-* [Zgłoszenia](zgłoszenia.md)
+* [Zgłoszenia](zgloszenia.md)
 * [Rezerwacje](rezerwacje.md)
 * [Wnioski](wnioski.md)
