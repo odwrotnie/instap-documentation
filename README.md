@@ -1,1 +1,1 @@
-Dokumentacja systemu imperiusFM
+[Doc](https://odwrotnie.github.io/instap-documentation/)
