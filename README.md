@@ -1,6 +1,6 @@
 # Instap documentation
 
-The real [Documentation](https://odwrotnie.github.io/instap-documentation/)
+User [Documentation](https://odwrotnie.github.io/instap-documentation/)
 
 ## Authentication
 
