@@ -4,7 +4,24 @@ The real [Documentation](https://odwrotnie.github.io/instap-documentation/)
 
 ## Authentication
 
-### JWT Token
+The **S** can be one of each:
+- Setup
+- CRON LDAP
+- Calculations
+
+```mermaid
+graph TD;
+    Client---Proxy;
+    Proxy---Auth;
+    Proxy---S;
+    S---Auth
+    Proxy---Definitions;
+    Definitions---Auth;
+    Proxy---Items;
+    Items---Auth;
+```
+
+**JWT Token** consists of:
 - roles: List[String]
 
 ```mermaid
